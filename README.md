@@ -6,3 +6,5 @@ This is just for learning git
 * License: BusinessKasper License :-)
 
 Just playing around.
+
+Supported by GitHub for Mac. Thanks guys!
